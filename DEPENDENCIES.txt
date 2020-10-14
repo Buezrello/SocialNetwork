@@ -1,0 +1,5 @@
+django
+clearbit
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
